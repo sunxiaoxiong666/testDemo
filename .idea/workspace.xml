@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="test" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a4fb492-fecf-487c-adcf-86657a205dbb" name="Default Changelist" comment="测试版本回退" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test$SingleThreadPoolTest.ic" NAME="SingleThreadPoolTest Coverage Results" MODIFIED="1548755132562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>thread.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="123.59.198.86_3306" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="123.59.198.91_3307" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="123.59.198.91_3307" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="123.59.198.91_3307" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="otherinfo: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1169974719">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="38" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.106" value="1" />
+          <entry key="project.open.time.11" value="6" />
+          <entry key="project.open.time.116" value="1" />
+          <entry key="project.open.time.117" value="1" />
+          <entry key="project.open.time.119" value="1" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.121" value="2" />
+          <entry key="project.open.time.125" value="2" />
+          <entry key="project.open.time.13" value="5" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="5" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="3" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="2" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="2" />
+          <entry key="project.open.time.56" value="3" />
+          <entry key="project.open.time.57" value="3" />
+          <entry key="project.open.time.58" value="2" />
+          <entry key="project.open.time.59" value="3" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.60" value="2" />
+          <entry key="project.open.time.61" value="2" />
+          <entry key="project.open.time.62" value="4" />
+          <entry key="project.open.time.63" value="2" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.65" value="4" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.67" value="3" />
+          <entry key="project.open.time.68" value="2" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.71" value="2" />
+          <entry key="project.open.time.72" value="4" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.75" value="5" />
+          <entry key="project.open.time.77" value="5" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.81" value="4" />
+          <entry key="project.open.time.82" value="3" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.86" value="2" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.88" value="2" />
+          <entry key="project.open.time.89" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.open.time.90" value="2" />
+          <entry key="project.open.time.92" value="2" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.opened" value="178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="4" />
+          <entry key="class" value="69" />
+          <entry key="groovy" value="7" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="796" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="3" />
+          <entry key="sql" value="7" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="69" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="796" />
+          <entry key="Manifest" value="4" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="3" />
+          <entry key="SQL" value="2" />
+          <entry key="Scratch" value="12" />
+          <entry key="XML" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="dummy" value="48" />
+          <entry key="groovy" value="27" />
+          <entry key="java" value="50634" />
+          <entry key="txt" value="41" />
+          <entry key="xml" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="50633" />
+          <entry key="PLAIN_TEXT" value="89" />
+          <entry key="RegExp" value="1" />
+          <entry key="Scratch" value="27" />
+          <entry key="XML" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.revision" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CallBackProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka/TimeInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka/stream/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1199#1200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.11.0.2/kafka-streams-0.11.0.2-sources.jar!/org/apache/kafka/streams/processor/TopologyBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21762">
+              <caret line="893" column="46" selection-start-line="893" selection-start-column="46" selection-end-line="893" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka/stream/LogProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CounterInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1924">
+              <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerPartitioner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>英文名</find>
+      <find>source_flag</find>
+      <find>property4</find>
+      <find>property2</find>
+      <find>country</find>
+      <find>j</find>
+      <find>volatile</find>
+      <find>runState</find>
+      <find>ReentrantLock</find>
+      <find>execute</find>
+      <find>socketWrite0</find>
+      <find>ease_meta_20190305</find>
+      <find>maven-compiler-plugin</find>
+      <find>1.7</find>
+      <find>close</find>
+      <find>hadoop</find>
+      <find>getS</find>
+      <find>urlString</find>
+      <find>nextRow</find>
+      <find>seek</find>
+      <find>next()</find>
+      <find>write</find>
+      <find>writeSplits</find>
+      <find>next</find>
+      <find>writeJobSplitMetaInfo</find>
+      <find>NewTrackingRecordReader</find>
+      <find>run</find>
+      <find>hubble</find>
+      <find>junit</find>
+      <find>toString</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>public</replace>
+      <replace>newName</replace>
+      <replace>ease_meta_20190524</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\workspace\test\src\main\java\IO\stream</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/IO/BufferStream.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/webLog2/LogBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/flow/FlowBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/webLog2/LogMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/webLog2/LogDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/index/OneIndexReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/index/OneIndexDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/index/TwoIndexMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/index/TwoIndexDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/index/TwoIndexReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/index/OneIndexMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/FriendShareMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/OneFriendShareMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/OneFriendShareReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/OneFriendShareDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/TwoFriendShareDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/mapJoin/DistributedCacheMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/TwoFriendShareMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/TwoFriendShareReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/compress/TestCompress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordCountDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/kvText/KvtextMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/kvText/KvtextReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/kvText/KvtextDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntCashflowHeadInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntFinanceCashflowInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntNonFinanceCashflowInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntBalancesheetHeadInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntFinanceBalancesheetInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntFinanceIncomesHeadInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntNonFinanceIncomesInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntFinanceIncomesInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Loo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/NewProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/qingxi/DictionaryQuery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/qingxi/CleaningTools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/qingxi/DataClean.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntNonFinanceBalancesheetInfoJy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/qingxi/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/CustomerPartitioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/TimeInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/CounterInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/CallBackProducer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/stream/LogProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/stream/Application.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/develop/maven/maven-3.3.3" />
+        <option name="nonRecursive" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="E:\develop\maven\maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kafka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-10" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="schema" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="toString&#9;PSI&#9;JAVA://mapReduce.flow.FlowBean#toString" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569233016754" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\test\src\main\resources" />
+      <recent name="E:\workspace\test\src\main\java\mapReduce\wordCount" />
+      <recent name="E:\workspace\test\src\main\java\readImage" />
+      <recent name="E:\workspace\test\src\main\resources\sql" />
+      <recent name="E:\workspace\test\src\main\java\indexdata" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mapReduce.flowSort" />
+      <recent name="org.apache.hadoop.io.nativeio" />
+      <recent name="commandLine" />
+      <recent name="suanfa" />
+      <recent name="BigDecimal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\test\src\main\resources" />
+      <recent name="E:\workspace\test\src\main\resources\sql" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="DistributedCacheDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapReduce.mapJoin.DistributedCacheDriver" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapReduce.mapJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KvtextDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapReduce.kvText.KvtextDriver" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapReduce.kvText.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NLineDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapReduce.NLineInputFormat.NLineDriver" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapReduce.NLineInputFormat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readImage.Test2" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sheJiMoShi.guanChaZheMoShi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCompress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapReduce.compress.TestCompress" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapReduce.compress.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_test" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59410" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Tomcat Server.tomcat" />
+      <item itemvalue="Application.DistributedCacheDriver" />
+      <item itemvalue="Application.TestCompress" />
+      <item itemvalue="Application.KvtextDriver" />
+      <item itemvalue="Application.NLineDriver" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.NLineDriver" />
+        <item itemvalue="Application.KvtextDriver" />
+        <item itemvalue="Application.TestCompress" />
+        <item itemvalue="Application.DistributedCacheDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a4fb492-fecf-487c-adcf-86657a205dbb" name="Default Changelist" comment="" />
+      <created>1545988805102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545988805102</updated>
+      <workItem from="1545988809541" duration="4528000" />
+      <workItem from="1546047257453" duration="4280000" />
+      <workItem from="1546392888198" duration="14031000" />
+      <workItem from="1546479251329" duration="6855000" />
+      <workItem from="1546495070327" duration="701000" />
+      <workItem from="1546497689511" duration="1401000" />
+      <workItem from="1546590556949" duration="5553000" />
+      <workItem from="1546596802378" duration="9307000" />
+      <workItem from="1546929437704" duration="1386000" />
+      <workItem from="1546934713235" duration="1205000" />
+      <workItem from="1546997626719" duration="6061000" />
+      <workItem from="1547083197584" duration="10601000" />
+      <workItem from="1547170456670" duration="2310000" />
+      <workItem from="1547429734875" duration="6354000" />
+      <workItem from="1547515844426" duration="597000" />
+      <workItem from="1547602566669" duration="2065000" />
+      <workItem from="1547689385402" duration="2224000" />
+      <workItem from="1547775535300" duration="1303000" />
+      <workItem from="1548211413609" duration="604000" />
+      <workItem from="1548293944028" duration="7101000" />
+      <workItem from="1548380418166" duration="9316000" />
+      <workItem from="1548639292324" duration="13893000" />
+      <workItem from="1548668355741" duration="2307000" />
+      <workItem from="1548725701432" duration="13163000" />
+      <workItem from="1548812537602" duration="602000" />
+      <workItem from="1550134170284" duration="33000" />
+      <workItem from="1550199734528" duration="2493000" />
+      <workItem from="1550452777738" duration="589000" />
+      <workItem from="1550539708203" duration="589000" />
+      <workItem from="1550554774996" duration="587000" />
+      <workItem from="1550627284585" duration="589000" />
+      <workItem from="1550655029445" duration="595000" />
+      <workItem from="1550712708613" duration="583000" />
+      <workItem from="1550798140656" duration="589000" />
+      <workItem from="1551058078164" duration="583000" />
+      <workItem from="1551081844301" duration="1202000" />
+      <workItem from="1551316903527" duration="596000" />
+      <workItem from="1551403434474" duration="5799000" />
+      <workItem from="1551662358976" duration="7566000" />
+      <workItem from="1551749435484" duration="5179000" />
+      <workItem from="1551835127398" duration="12057000" />
+      <workItem from="1551921966659" duration="8124000" />
+      <workItem from="1551944194380" duration="596000" />
+      <workItem from="1552007630572" duration="593000" />
+      <workItem from="1552269935199" duration="6435000" />
+      <workItem from="1552353520680" duration="2432000" />
+      <workItem from="1552439918547" duration="1599000" />
+      <workItem from="1552467886899" duration="1560000" />
+      <workItem from="1552872310130" duration="579000" />
+      <workItem from="1552958831833" duration="588000" />
+      <workItem from="1553131045831" duration="3106000" />
+      <workItem from="1553218365487" duration="403000" />
+      <workItem from="1553218798322" duration="275000" />
+      <workItem from="1553219098182" duration="761000" />
+      <workItem from="1553220164721" duration="105000" />
+      <workItem from="1553220292542" duration="1061000" />
+      <workItem from="1553221596722" duration="2590000" />
+      <workItem from="1553562754292" duration="595000" />
+      <workItem from="1553649658540" duration="1254000" />
+      <workItem from="1553671721623" duration="598000" />
+      <workItem from="1553736546693" duration="3689000" />
+      <workItem from="1553759499078" duration="601000" />
+      <workItem from="1554189324896" duration="647000" />
+      <workItem from="1554254639314" duration="595000" />
+      <workItem from="1554340985468" duration="1210000" />
+      <workItem from="1554687270423" duration="582000" />
+      <workItem from="1554690634882" duration="1190000" />
+      <workItem from="1554772911414" duration="593000" />
+      <workItem from="1554797619683" duration="595000" />
+      <workItem from="1554858785610" duration="588000" />
+      <workItem from="1554944763279" duration="590000" />
+      <workItem from="1554974982162" duration="1415000" />
+      <workItem from="1555031628368" duration="11000" />
+      <workItem from="1555317297087" duration="27000" />
+      <workItem from="1555317336524" duration="4554000" />
+      <workItem from="1555376779648" duration="4009000" />
+      <workItem from="1555463221513" duration="4555000" />
+      <workItem from="1555549332825" duration="1193000" />
+      <workItem from="1555895107000" duration="1824000" />
+      <workItem from="1555981881373" duration="590000" />
+      <workItem from="1556068409806" duration="596000" />
+      <workItem from="1556155793449" duration="109000" />
+      <workItem from="1556607082451" duration="676000" />
+      <workItem from="1557018313793" duration="1342000" />
+      <workItem from="1557105073477" duration="587000" />
+      <workItem from="1558599070816" duration="5853000" />
+      <workItem from="1558660587830" duration="606000" />
+      <workItem from="1558676271372" duration="13772000" />
+      <workItem from="1558924650994" duration="1367000" />
+      <workItem from="1559014938073" duration="5650000" />
+      <workItem from="1559091878044" duration="20692000" />
+      <workItem from="1559265038603" duration="3124000" />
+      <workItem from="1559524144622" duration="8815000" />
+      <workItem from="1559610207232" duration="3988000" />
+      <workItem from="1559696367663" duration="588000" />
+      <workItem from="1559712034390" duration="1289000" />
+      <workItem from="1559785745642" duration="598000" />
+      <workItem from="1560128793778" duration="2432000" />
+      <workItem from="1560215221750" duration="591000" />
+      <workItem from="1560301549245" duration="582000" />
+      <workItem from="1560387348376" duration="1186000" />
+      <workItem from="1560474721396" duration="589000" />
+      <workItem from="1560734325611" duration="6224000" />
+      <workItem from="1560820004258" duration="13852000" />
+      <workItem from="1560906522634" duration="8233000" />
+      <workItem from="1560992349727" duration="3693000" />
+      <workItem from="1561339402486" duration="2722000" />
+      <workItem from="1561511492103" duration="2388000" />
+      <workItem from="1561597010371" duration="12225000" />
+      <workItem from="1561683826513" duration="598000" />
+      <workItem from="1561944055416" duration="4187000" />
+      <workItem from="1561949729367" duration="165000" />
+      <workItem from="1561949929014" duration="1080000" />
+      <workItem from="1561951310615" duration="23427000" />
+      <workItem from="1562116857947" duration="1473000" />
+      <workItem from="1562143973585" duration="597000" />
+      <workItem from="1562202501767" duration="597000" />
+      <workItem from="1562289487379" duration="593000" />
+      <workItem from="1562634646113" duration="3158000" />
+      <workItem from="1562721017375" duration="1224000" />
+      <workItem from="1562807805431" duration="597000" />
+      <workItem from="1562893891138" duration="593000" />
+      <workItem from="1563153323574" duration="5556000" />
+      <workItem from="1563239835502" duration="20196000" />
+      <workItem from="1563326976810" duration="11499000" />
+      <workItem from="1563412211912" duration="3519000" />
+      <workItem from="1563498612883" duration="12166000" />
+      <workItem from="1563757849091" duration="5389000" />
+      <workItem from="1563844303060" duration="10160000" />
+      <workItem from="1563930509299" duration="26980000" />
+      <workItem from="1564016301527" duration="19271000" />
+      <workItem from="1564103793245" duration="9662000" />
+      <workItem from="1564363768045" duration="10654000" />
+      <workItem from="1564535312599" duration="1059000" />
+      <workItem from="1564621866689" duration="5041000" />
+      <workItem from="1564707844413" duration="593000" />
+      <workItem from="1564726044179" duration="1195000" />
+      <workItem from="1564966431149" duration="16259000" />
+      <workItem from="1565053738842" duration="5708000" />
+      <workItem from="1565140407982" duration="5432000" />
+      <workItem from="1565157202134" duration="2526000" />
+      <workItem from="1565164351071" duration="591000" />
+      <workItem from="1565226876712" duration="16935000" />
+      <workItem from="1565313019206" duration="3351000" />
+      <workItem from="1565658580679" duration="19625000" />
+      <workItem from="1565744484409" duration="18866000" />
+      <workItem from="1565830945587" duration="13977000" />
+      <workItem from="1565917355272" duration="21880000" />
+      <workItem from="1566177136760" duration="10930000" />
+      <workItem from="1566264296990" duration="9302000" />
+      <workItem from="1566349585562" duration="590000" />
+      <workItem from="1566435481926" duration="3018000" />
+      <workItem from="1566522877596" duration="584000" />
+      <workItem from="1566543283399" duration="589000" />
+      <workItem from="1566781663139" duration="590000" />
+      <workItem from="1566868536197" duration="593000" />
+      <workItem from="1566954278156" duration="591000" />
+      <workItem from="1567040886035" duration="592000" />
+      <workItem from="1567127899967" duration="591000" />
+      <workItem from="1567386450392" duration="599000" />
+      <workItem from="1567472913153" duration="599000" />
+      <workItem from="1567559151884" duration="599000" />
+      <workItem from="1567645721562" duration="1649000" />
+      <workItem from="1567731867423" duration="1437000" />
+      <workItem from="1567991402937" duration="595000" />
+      <workItem from="1568078017358" duration="590000" />
+      <workItem from="1568164101145" duration="1949000" />
+      <workItem from="1568251671778" duration="4356000" />
+      <workItem from="1568596914606" duration="4027000" />
+      <workItem from="1568683834898" duration="4655000" />
+      <workItem from="1568769593103" duration="5825000" />
+      <workItem from="1568855330112" duration="598000" />
+      <workItem from="1568941675312" duration="592000" />
+      <workItem from="1569201178740" duration="15926000" />
+      <workItem from="1569286991219" duration="5049000" />
+      <workItem from="1569377740873" duration="595000" />
+      <workItem from="1569459833632" duration="597000" />
+      <workItem from="1569546588035" duration="1208000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1555490400563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555490400563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试版本回退">
+      <created>1555491623925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555491623925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReadImage_test2 - 2019.06.27 at 14h 06m 44s.xml">
+      <configuration name="ReadImage.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadImage_test2 - 2019.06.27 at 14h 08m 40s.xml">
+      <configuration name="ReadImage.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadImage_test2 - 2019.06.27 at 14h 15m 56s.xml">
+      <configuration name="ReadImage.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadImage_test2 - 2019.06.27 at 17h 55m 20s.xml">
+      <configuration name="ReadImage.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttp_prsSerachTest - 2019.07.26 at 13h 37m 22s.xml">
+      <configuration name="TestHttp.prsSerachTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttp_prsSerachTest - 2019.07.26 at 13h 41m 32s.xml">
+      <configuration name="TestHttp.prsSerachTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttp_prsSerachTest - 2019.07.26 at 13h 42m 08s.xml">
+      <configuration name="TestHttp.prsSerachTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttp_prsSerachTest - 2019.07.26 at 13h 53m 15s.xml">
+      <configuration name="TestHttp.prsSerachTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttp_prsSerachTest - 2019.07.26 at 13h 59m 14s.xml">
+      <configuration name="TestHttp.prsSerachTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttp_prsSerachTest - 2019.07.26 at 14h 13m 45s.xml">
+      <configuration name="TestHttp.prsSerachTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="739852000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-10" y="0" width="1938" height="1050" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49926794" visible="true" weight="0.2284345" />
+      <window_info id="Structure" order="1" sideWeight="0.50073206" side_tool="true" weight="0.21268657" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19438203" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39414415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32921347" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32924107" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" weight="0.2027027" />
+      <window_info anchor="bottom" id="Messages" order="13" visible="true" weight="0.1269663" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.033783782" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32885906" />
+      <window_info anchor="bottom" id="JProfiler" order="16" weight="0.22635135" />
+      <window_info anchor="bottom" id="Database Console" order="17" weight="0.32995495" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3290735" />
+      <window_info anchor="right" id="Database" order="6" weight="0.28061768" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32960597" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49926794" visible="true" weight="0.21991481" />
+      <window_info id="Structure" order="1" sideWeight="0.50073206" side_tool="true" weight="0.21268657" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19438203" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39414415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32921347" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32924107" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" weight="0.2027027" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.4177928" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.033783782" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32885906" />
+      <window_info anchor="bottom" id="JProfiler" order="16" weight="0.22635135" />
+      <window_info anchor="bottom" id="Database Console" order="17" weight="0.32995495" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3290735" />
+      <window_info anchor="right" id="Database" order="6" weight="0.28061768" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32960597" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <MESSAGE value="测试版本回退" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试版本回退" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((ReduceContextImpl)((ValueIterator)itera).this$0).inputKeyCounter" custom="org.apache.hadoop.mapreduce.task.ReduceContextImpl,org.apache.hadoop.mapreduce.task.ReduceContextImpl.ValueIterator" />
+        <watch expression="values" />
+        <watch expression="((TaskAttemptContextImpl)job).conf" custom="org.apache.hadoop.mapreduce.task.TaskAttemptContextImpl" />
+        <watch expression="((JobConf)((TaskAttemptContextImpl)job).conf).updatingResource" custom="org.apache.hadoop.mapreduce.task.TaskAttemptContextImpl,org.apache.hadoop.mapred.JobConf" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/readImage/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3588">
+          <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/readImage/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4160">
+          <caret line="175" column="13" selection-start-line="175" selection-start-column="13" selection-end-line="175" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f946bc90-a028-40ae-9968-1bca5ce3e500/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ss.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/readImage/ReadImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c3dd3874-04fc-46d9-b10b-e249a959101b/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntCashflowHeadInfoJy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntFinanceCashflowInfoJy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestHttp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntNonFinanceCashflowInfoJy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntNonFinanceIncomesInfoJy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntFinanceIncomesInfoJy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntBalancesheetHeadInfoJy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordcountCombiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordCountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordCountReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/flow/ProvincePartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/flow/FlowDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntFinanceIncomesHeadInfoJy.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntFinanceBalancesheetInfoJy.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/MyGenerate POJOs.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/readImage/ReadPictureSaveAsPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/qingxi/DictionaryQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/develop/jdk/src.zip!/java/nio/file/Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/11.0.2/guava-11.0.2-sources.jar!/com/google/common/base/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/redis/TestRedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/qingxi/DataClean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="411" selection-start-line="411" selection-end-line="411" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntNonFinanceBalancesheetInfoJy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/qingxi/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="398" column="47" selection-start-line="398" selection-start-column="47" selection-end-line="398" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/mapJoin/DistributedCacheMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/qingxi/CleaningTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="173" column="27" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/develop/jdk/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="456" column="26" selection-start-line="456" selection-start-column="26" selection-end-line="456" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="196" column="31" selection-start-line="196" selection-start-column="31" selection-end-line="196" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/NewProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CallBackProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/TimeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/0.11.0.2/kafka-streams-0.11.0.2-sources.jar!/org/apache/kafka/streams/processor/TopologyBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21762">
+          <caret line="893" column="46" selection-start-line="893" selection-start-column="46" selection-end-line="893" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/stream/LogProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CounterInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1924">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/stream/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="javaee-facet-resources" />
+              <type id="library" />
+              <type id="jpa-descriptors" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (test)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
