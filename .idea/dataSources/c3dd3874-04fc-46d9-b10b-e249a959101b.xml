@@ -1797,7 +1797,7 @@
     </column>
     <column id="403" parent="238" name="s_hcio_sum_money">
       <Position>12</Position>
-      <Comment>金额（万美元）</Comment>
+      <Comment>金额（美元）</Comment>
       <DataType>varchar(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -1886,7 +1886,7 @@
     </column>
     <column id="419" parent="239" name="s_sum_money">
       <Position>12</Position>
-      <Comment>金额（万美元）</Comment>
+      <Comment>金额（美元）</Comment>
       <DataType>varchar(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
@@ -3598,7 +3598,7 @@
     </column>
     <column id="707" parent="247" name="update_time">
       <Position>15</Position>
-      <Comment>更新时间 </Comment>
+      <Comment>更新时间</Comment>
       <DataType>varchar(30)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
