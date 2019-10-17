@@ -211,3 +211,4 @@ target/classes/thread/ThreadTest1$2.class
 target/classes/thread/ThreadTest1.class
 target/test-classes/Test.class
 target/test-classes/TestHttp.class
+.idea/*
