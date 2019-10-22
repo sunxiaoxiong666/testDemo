@@ -212,3 +212,13 @@ target/classes/thread/ThreadTest1.class
 target/test-classes/Test.class
 target/test-classes/TestHttp.class
 .idea/*
+target/classes/hbase/HbaseApi.class
+target/classes/hbase/hbase_mapreduce/test1/FruitDriver.class
+target/classes/hbase/hbase_mapreduce/test1/ReadFruitMapper.class
+target/classes/hbase/hbase_mapreduce/test1/WriteFruitReduce.class
+target/classes/hbase/hbase_mapreduce/test2/ReadFromHdfsDriver.class
+target/classes/hbase/hbase_mapreduce/test2/ReadFromHdfsMapper.class
+target/classes/hbase/hbase_mapreduce/test2/ReadFromHdfsReducer.class
+target/classes/hbase/weibo_project/Message.class
+target/classes/hbase/weibo_project/WeiBo.class
+target/classes/suanfa/QuickSort.class
