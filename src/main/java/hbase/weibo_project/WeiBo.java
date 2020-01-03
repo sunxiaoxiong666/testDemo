@@ -92,13 +92,14 @@ public class WeiBo {
             HColumnDescriptor infoColumnFamilyDescriptor = new HColumnDescriptor(Bytes.toBytes("info"));
             //设置块缓存
             infoColumnFamilyDescriptor.setBlockCacheEnabled(true);
-            //设置块缓存大小
-            infoColumnFamilyDescriptor.setBlocksize(2097152);
+            //设置块缓存大小2M
+            infoColumnFamilyDescriptor.setBlocksize(2 * 1024 * 1024);
             //设置压缩方式
             // infoColumnFamilyDescriptor.setCompressionType(Compression.Algorithm.SNAPPY);
-            //设置版本确界
+            //设置版本确界，因为内容表中一个单元只放一条微博内容就行。
             infoColumnFamilyDescriptor.setMaxVersions(1);
             infoColumnFamilyDescriptor.setMinVersions(1);
+            //将列描述器放在表描述器中。
             hTableDescriptor.addFamily(infoColumnFamilyDescriptor);
             admin.createTable(hTableDescriptor);
         } catch (IOException e) {
@@ -232,7 +233,7 @@ public class WeiBo {
             //b.向微博收件箱表中添加发布的rowkey
             //b.1 查询用户关系表，得到当前用户有哪些粉丝
             Table relationTable = connection.getTable(TableName.valueOf(TABLE_RELATION));
-            //b.2 取出目标数据
+            //b.2 取出粉丝的id放到list集合中
             Get get = new Get(Bytes.toBytes(uid));
             get.addFamily(Bytes.toBytes("fans"));
             Result result = relationTable.get(get);
@@ -240,7 +241,7 @@ public class WeiBo {
             //遍历取出当前发布微博的用户的所有粉丝数据
             Cell[] cells = result.rawCells();
             for (Cell cell : cells) {
-                fans.add(CellUtil.cloneQualifier(cell));
+                fans.add(CellUtil.cloneValue(cell));
             }
 
             //如果该用户没有粉丝，直接return
@@ -256,7 +257,6 @@ public class WeiBo {
                 puts.add(put);
             }
             inboxTable.put(puts);
-
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
@@ -407,8 +407,9 @@ public class WeiBo {
             Table inboxTable = connection.getTable(TableName.valueOf(TABLE_INBOX));
             //a. 从收件箱中取得微博rowkey
             Get get = new Get(Bytes.toBytes(uid));
-            //设置最大版本号
+            //设置最大版本号，每个cell中存放好多微博，只取最新的5个微博
             get.setMaxVersions(5);
+            //准备一个存放rowkey的集合
             List<byte[]> rowkeys = new ArrayList<>();
             Result result = inboxTable.get(get);
             for (Cell cell : result.rawCells()) {

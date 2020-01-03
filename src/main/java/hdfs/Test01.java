@@ -20,7 +20,7 @@ import java.net.URI;
 public class Test01 {
     public static void main(String[] args) {
         try {
-            URI uri = new URI("hdfs://master2:9000");
+            URI uri = new URI("hdfs://master1:9000");
             //获取配置文件信息
             Configuration conf = new Configuration();
             //注意：因为集群设置了地址映射关系，本地访问集群的时候不能通过内网访问，需要配置下行代码，设置通过域名访问集群
