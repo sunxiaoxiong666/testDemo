@@ -10,11 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a4fb492-fecf-487c-adcf-86657a205dbb" name="Default Changelist" comment="测试版本回退">
-      <change afterPath="$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hdfs-site.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hbase/weibo_project/WeiBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hbase/weibo_project/WeiBo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mianshi/Aa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,36 +48,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="123.59.198.79_3306" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="123.59.198.79_3306" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="123.59.198.79_3306" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="zhongdeng: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="123.59.198.86_3306" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="123.59.198.91_3307" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="123.59.198.91_3307" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ErrorTreeViewConfiguration">
@@ -280,23 +253,72 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2004845246">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.103" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="scala" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="Scala" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="38" />
+          <entry key="scala" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="38" />
+          <entry key="Scala" value="28" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+            <state relative-caret-position="700">
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/readImage/Test2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/FruitDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4264">
-              <caret line="179" column="22" selection-start-line="179" selection-start-column="22" selection-end-line="179" selection-end-column="22" />
+            <state relative-caret-position="200">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/HelloScala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -369,7 +391,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/TwoFriendShareDriver.java" />
         <option value="$PROJECT_DIR$/src/main/java/mapReduce/mapJoin/DistributedCacheMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/TwoFriendShareMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/TwoFriendShareReducer.java" />
@@ -409,7 +430,6 @@
         <option value="$PROJECT_DIR$/src/test/java/TestSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/HbaseApi2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/ReadFruitMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/ReadFruitMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/WriteFruitReduce.java" />
@@ -420,6 +440,8 @@
         <option value="$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test2/ReadFromHdfsDriver.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/weibo_project/WeiBo.java" />
         <option value="$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/HelloScala.scala" />
       </list>
     </option>
   </component>
@@ -432,7 +454,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/develop/maven/maven-3.3.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/maven-3.3.3" />
         <option name="nonRecursive" value="true" />
         <option name="usePluginRegistry" value="true" />
         <option name="userSettingsFile" value="E:\develop\maven\maven-3.3.3\conf\settings.xml" />
@@ -456,7 +478,7 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="kafka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
       </expand>
       <select />
@@ -511,37 +533,6 @@
               <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="countDownLatch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="readImage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="suanfa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -564,23 +555,20 @@
     <property name="SearchEverywhereHistoryKey" value="toString&#9;PSI&#9;JAVA://mapReduce.flow.FlowBean#toString" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571652023212" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577714737106" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.side.proportion" value="0.5103448" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\workspace\test\src\main\resources" />
-      <recent name="E:\workspace\test\src\main\java\mapReduce\wordCount" />
-      <recent name="E:\workspace\test\src\main\java\readImage" />
       <recent name="E:\workspace\test\src\main\resources\sql" />
-      <recent name="E:\workspace\test\src\main\java\indexdata" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="mapReduce.flowSort" />
@@ -589,8 +577,11 @@
       <recent name="suanfa" />
       <recent name="BigDecimal" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\develop\idea2018.2.3\workspace\testDemo\src\main\resources" />
       <recent name="E:\workspace\test\src\main\resources" />
+      <recent name="E:\workspace\test\src\main\java\mapReduce\wordCount" />
+      <recent name="E:\workspace\test\src\main\java\readImage" />
       <recent name="E:\workspace\test\src\main\resources\sql" />
     </key>
   </component>
@@ -606,16 +597,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="KvtextDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapReduce.kvText.KvtextDriver" />
-      <module name="test" />
+  <component name="RunManager" selected="Application.HelloScala">
+    <configuration name="HbaseApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hbase.HbaseApi" />
+      <module name="testDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapReduce.kvText.*" />
+          <option name="PATTERN" value="hbase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloScala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloScala" />
+      <module name="testDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -659,19 +657,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sheJiMoShi.guanChaZheMoShi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCompress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapReduce.compress.TestCompress" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mapReduce.compress.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -745,19 +730,19 @@
     <list>
       <item itemvalue="Application.Test2" />
       <item itemvalue="Tomcat Server.tomcat" />
-      <item itemvalue="Application.TestCompress" />
-      <item itemvalue="Application.KvtextDriver" />
       <item itemvalue="Application.NLineDriver" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.HbaseApi" />
+      <item itemvalue="Application.HelloScala" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloScala" />
+        <item itemvalue="Application.HbaseApi" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.NLineDriver" />
-        <item itemvalue="Application.KvtextDriver" />
-        <item itemvalue="Application.TestCompress" />
       </list>
     </recent_temporary>
   </component>
@@ -960,6 +945,12 @@
       <workItem from="1571360739178" duration="17207000" />
       <workItem from="1571620019770" duration="14799000" />
       <workItem from="1571706656017" duration="4537000" />
+      <workItem from="1571753612588" duration="3018000" />
+      <workItem from="1571758219578" duration="2636000" />
+      <workItem from="1571837113404" duration="1621000" />
+      <workItem from="1571923566189" duration="363000" />
+      <workItem from="1577712322414" duration="1629000" />
+      <workItem from="1577714059397" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1555490400563</created>
@@ -1011,7 +1002,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="826776000" />
+    <option name="totallyTimeSpent" value="837288000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1023,10 +1014,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49926794" visible="true" weight="0.141258" />
+      <window_info content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49926794" visible="true" weight="0.21860817" />
       <window_info id="Structure" order="1" sideWeight="0.50073206" side_tool="true" weight="0.21268657" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1035,18 +1025,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19438203" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.26510066" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.5255973" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26510066" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.25838926" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.28716215" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3139932" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32924107" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" weight="0.32924107" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.2027027" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.3885135" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.38737202" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.033783782" />
       <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32885906" />
       <window_info anchor="bottom" id="JProfiler" order="16" weight="0.22635135" />
@@ -1056,15 +1046,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3290735" />
-      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.2803838" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.30937973" />
+      <window_info anchor="right" id="Database" order="6" weight="0.09984872" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32960597" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49926794" visible="true" weight="0.21991481" />
+      <window_info content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49926794" visible="true" weight="0.25567323" />
       <window_info id="Structure" order="1" sideWeight="0.50073206" side_tool="true" weight="0.21268657" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1073,18 +1063,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19438203" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39414415" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.5255973" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26510066" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.25838926" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32921347" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28716215" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3139932" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32924107" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" weight="0.2027027" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.4177928" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" weight="0.32924107" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.2027027" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.38737202" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.033783782" />
       <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32885906" />
       <window_info anchor="bottom" id="JProfiler" order="16" weight="0.22635135" />
@@ -1094,8 +1084,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3290735" />
-      <window_info anchor="right" id="Database" order="6" weight="0.28061768" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.30937973" />
+      <window_info anchor="right" id="Database" order="6" weight="0.09984872" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32960597" />
@@ -1164,22 +1154,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/TimeInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LedgeRegMerge.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestSort.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/kafka/NewProducer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="728">
@@ -1201,13 +1175,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1924">
-          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerPartitioner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1215,9 +1183,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1df8ddb1-5fbe-4858-954b-e471a77e9c1e/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1df8ddb1-5fbe-4858-954b-e471a77e9c1e/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -1227,48 +1193,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hbase/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hbase/HbaseApi2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="144" column="128" selection-start-line="144" selection-start-column="128" selection-end-line="144" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/HTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1872">
-          <caret line="147" column="9" selection-start-line="147" selection-start-column="9" selection-end-line="147" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Admin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9568">
-          <caret line="420" column="10" selection-start-line="420" selection-start-column="10" selection-end-line="420" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.1/hbase-common-1.3.1-sources.jar!/org/apache/hadoop/hbase/TableName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7410">
-          <caret line="327" column="10" selection-start-line="327" selection-start-column="10" selection-end-line="327" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34944">
-          <caret line="1525" column="17" selection-start-line="1525" selection-start-column="17" selection-end-line="1525" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3666">
-          <caret line="166" column="8" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/HTable.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Admin.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.1/hbase-common-1.3.1-sources.jar!/org/apache/hadoop/hbase/TableName.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Connection.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/flow/FlowMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1276,20 +1205,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/lib/reduce/WrappedReducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="102" column="16" selection-start-line="102" selection-start-column="16" selection-end-line="102" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/lib/reduce/WrappedReducer.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/index/TwoIndexDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1311,13 +1228,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="1303" column="17" selection-start-line="1303" selection-start-column="17" selection-end-line="1303" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/Job.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/qingxi/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
@@ -1325,41 +1236,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/util/ToolRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/develop/jdk/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="1298" column="55" selection-start-line="1298" selection-start-column="55" selection-end-line="1298" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/develop/jdk/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/conf/Configured.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/util/ToolRunner.java" />
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/src.zip!/java/lang/Class.java" />
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/src.zip!/java/lang/Object.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/conf/Configured.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/flow/FlowDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1367,20 +1247,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/util/Tool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/FruitDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/util/Tool.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/ReadFruitMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -1402,13 +1269,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/develop/jdk/src.zip!/java/nio/file/Path.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/src.zip!/java/nio/file/Path.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test2/ReadFromHdfsDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1426,13 +1287,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Put.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4082">
-          <caret line="201" column="13" selection-start-line="201" selection-start-column="13" selection-end-line="201" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Put.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5252">
@@ -1440,20 +1295,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Get.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1378">
-          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.1/hbase-common-1.3.1-sources.jar!/org/apache/hadoop/hbase/util/Bytes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12220">
-          <caret line="528" column="23" selection-start-line="528" selection-start-column="23" selection-end-line="528" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Get.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.1/hbase-common-1.3.1-sources.jar!/org/apache/hadoop/hbase/util/Bytes.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hbase/weibo_project/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
@@ -1469,17 +1312,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/hadoop/io/nativeio/NativeIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        <state relative-caret-position="1325">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/readImage/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4264">
+        <state relative-caret-position="4100">
           <caret line="179" column="22" selection-start-line="179" selection-start-column="22" selection-end-line="179" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-636">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/core-site.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IO/stream/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/FruitDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/HelloScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1491,16 +1379,16 @@
           <artifact-editor>
             <show-content>
               <type id="library" />
-              <type id="jpa-descriptors" />
-              <type id="javaee-facet-resources" />
               <type id="artifact" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
             </show-content>
           </artifact-editor>
           <last-edited>test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5103448" />
                 <option value="0.5" />
               </list>
             </option>
@@ -1513,7 +1401,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5103448" />
               </list>
             </option>
           </splitter-proportions>
@@ -1521,11 +1409,11 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.11.0</last-edited>
+          <last-edited>scala-sdk-2.11.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5103448" />
               </list>
             </option>
           </splitter-proportions>
@@ -1537,7 +1425,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5103448" />
               </list>
             </option>
           </splitter-proportions>
@@ -1545,11 +1433,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test</last-edited>
+          <last-edited>testDemo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5103448" />
                 <option value="0.6" />
               </list>
             </option>
@@ -1574,7 +1462,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5103448" />
               </list>
             </option>
           </splitter-proportions>

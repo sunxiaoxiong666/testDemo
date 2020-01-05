@@ -222,3 +222,8 @@ target/classes/hbase/hbase_mapreduce/test2/ReadFromHdfsReducer.class
 target/classes/hbase/weibo_project/Message.class
 target/classes/hbase/weibo_project/WeiBo.class
 target/classes/suanfa/QuickSort.class
+target/classes/HelloScala$.class
+target/classes/HelloScala.class
+target/classes/core-site.xml
+target/classes/hbase-site.xml
+target/classes/hdfs-site.xml

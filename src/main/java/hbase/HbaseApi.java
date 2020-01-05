@@ -26,12 +26,14 @@ public class HbaseApi {
     static {
         //使用HBaseConfiguration的单例方法实例化
         conf = HBaseConfiguration.create();
-        conf.set("hbase.zookeeper.quorum", "192.168.216.20");//设置zookeeper
+        conf.set("hbase.zookeeper.quorum", "192.168.126.102");//设置zookeeper
         conf.set("hbase.zookeeper.property.clientPort", "2181");//zookeeper的端口
     }
 
     public static void main(String[] args) throws Exception {
-        isexist("aa");
+//        boolean aa = isexist("stuedent");
+//        System.out.println(aa);
+        createTble("staff","info1","info2");
     }
 
     //1.判断表是否存在
