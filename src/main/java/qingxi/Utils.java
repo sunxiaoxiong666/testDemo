@@ -1,5 +1,6 @@
 package qingxi;
 
+import com.alibaba.fastjson.JSONArray;
 import com.google.common.base.CaseFormat;
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.collections.map.LinkedMap;
@@ -756,6 +757,27 @@ public class Utils {
         } catch (Exception e) {
         }
         return false;
+    }
+
+    /**
+     * DataCompanyInvestorEntpub解析金额使用
+     * 例如：[{"amomon":"20.0","time":"2001/04/25 00:00:00","paymet":"货币出资"}]
+     * 解析出：20.0
+     */
+    private String ExtAmount(String str) {
+        if (!Utils.isBlankEmpty(str) && str.contains("}]") && str.contains("[{")) {
+            JSONArray dmap = JSONArray.parseArray(str);
+            JSONObject job = (JSONObject) dmap.get(0);
+            str = job.getString("amomon").replaceAll("\u00a0", "");
+            boolean ismath = str.matches(".*[\\u4e00-\\u9faf || A-Za-z].*");
+            if (!Utils.isBlankEmpty(str.trim()) && !ismath) {
+                BigDecimal amount = new BigDecimal(str);
+                if (amount.compareTo(new BigDecimal(0)) <= 0) {
+                    return null;
+                }
+            }
+        }
+        return str;
     }
 
     /**
