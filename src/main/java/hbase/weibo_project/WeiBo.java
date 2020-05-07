@@ -38,7 +38,7 @@ public class WeiBo {
 
     //1.创建命名空间和表名的定义
     //获取配置conf
-    private Configuration conf = HBaseConfiguration.create();
+    private  Configuration conf = HBaseConfiguration.create();
     //微博内容表的表名
     private static final byte[] TABLE_CONTENT = Bytes.toBytes("ns_weibo:content");
     //用户关系表的表名
@@ -245,7 +245,9 @@ public class WeiBo {
             }
 
             //如果该用户没有粉丝，直接return
-            if (fans.size() < 0) return;
+            if (fans.size() < 0) {
+                return;
+            }
 
             //开始操作收件箱表
             Table inboxTable = connection.getTable(TableName.valueOf(TABLE_INBOX));
@@ -328,7 +330,9 @@ public class WeiBo {
 
             }
             //c.2 将取出的微博rowkey放置于当前操作用户的收件箱中
-            if (rowKeys.size() <= 0) return;
+            if (rowKeys.size() <= 0) {
+                return;
+            }
             //得到微博收件箱表的操作对象
             Table inboxTable = connection.getTable(TableName.valueOf(TABLE_INBOX));
             //用于存放多个关注用户发布的多条微博的rowkey信息

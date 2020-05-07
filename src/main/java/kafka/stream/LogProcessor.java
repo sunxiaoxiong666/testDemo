@@ -12,10 +12,12 @@ public class LogProcessor implements Processor<byte[], byte[]> {
 
     private ProcessorContext context;
 
+    @Override
     public void init(ProcessorContext processorContext) {
         this.context = processorContext;
     }
 
+    @Override
     public void process(byte[] key, byte[] value) {
         String input = new String(value);
         //如果包含“>>>”,则只保留后面的内容
@@ -30,10 +32,12 @@ public class LogProcessor implements Processor<byte[], byte[]> {
 
     }
 
+    @Override
     public void punctuate(long l) {
 
     }
 
+    @Override
     public void close() {
 
     }
