@@ -42,7 +42,7 @@ public class TableMapper extends Mapper<LongWritable, Text, Text, TableBean> {
         } else {//产品表处理
             //3.3 分割数据
             String[] fields = line.split("\t");
-            //3.4 疯转对象
+            //3.4 封装对象
             bean.setP_id(fields[0]);
             bean.setPname(fields[1]);
             bean.setAmount(0);

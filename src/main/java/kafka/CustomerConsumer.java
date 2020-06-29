@@ -13,6 +13,7 @@ import java.util.Properties;
 
 //消费者api
 public class CustomerConsumer {
+    @SuppressWarnings("deprecation")
     public static void main(String[] args) {
         Properties prop = new Properties();
         //定义kafka服务器的地址，不需要将所有的broker指定上
@@ -31,7 +32,6 @@ public class CustomerConsumer {
         KafkaConsumer<String, String> consumer = new KafkaConsumer<String, String>(prop);
         //消费者订阅的topic，可以同时订阅多个
         consumer.subscribe(Arrays.asList("first", "second", "third"));
-
         //消费消息
         while (true) {
             //读取数据，超时时间为100毫秒,读取的为一堆数据

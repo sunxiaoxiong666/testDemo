@@ -5,16 +5,21 @@ package suanfa;
  * @date  : Created in 2019/10/21 10:05
  */
 
+import java.util.Arrays;
+
 /*
  * 快速排序
- * 找一个基准数，把基准数大的放在基准数右边，把基准数小的放在基准数左边
+ * 找一个基准数，把基准数大的放在基准数右边，把基准数小的放在基准数左边,其实就是迭代找基准数的正确索引
+ * 时间复杂度为O(nlogn)
  * */
 public class QuickSort {
 
     public static void main(String[] args) {
         int[] arr = {2, 1, 45, 66, 23, 88, 22, 11, 55, -2, 9};
+        System.out.println("排序前："+Arrays.toString(arr));
         quickSort(arr, 0, arr.length - 1);
         System.out.println("排序后：");
+        System.out.println(Arrays.toString(arr));
         for (int i : arr) {
             System.out.println(i);
         }

@@ -4,14 +4,14 @@ package suanfa;
  * @author: sunxiaoxiong
  */
 
+import java.util.Arrays;
+
 //直接插入排序算法
 public class ZhiJieChaRuPaiXu {
     public static void main(String[] args) {
         int a[] = {6, 5, 7, 9, 3, 2};
         sort(a);
-        for (int i = 0; i < a.length; i++) {
-            System.out.println(a[i]);
-        }
+        System.out.println(Arrays.toString(a));
     }
 
     public static void sort(int[] a) {

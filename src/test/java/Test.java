@@ -24,5 +24,21 @@ public class Test {
         oneHoursAgoTime = sdf.format(dt1);
         String s = Utils.formatDate(oneHoursAgoTime, "yyyy-MM-dd");
         System.out.println(s);
+
+        System.out.println((double) 1370 / 400);
+        String x = Utils.multiply(2, 3);
+        x = Utils.divide(Utils.multiply(x, 2), 4, 5);
+        System.out.println(x);
+
+
+        //异或运算，交换两个变量的值（不采用中间临时变量）
+        int y = 3;
+        int z = 5;
+        y = y ^ z;
+        System.out.println("y=" + y + ",z=" + z);
+        z = y ^ z;
+        System.out.println("y=" + y + ",z=" + z);
+        y = y ^ z;
+        System.out.println("y=" + y + ",z=" + z);
     }
 }

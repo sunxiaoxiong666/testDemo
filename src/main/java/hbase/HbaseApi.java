@@ -81,9 +81,9 @@ public class HbaseApi {
     //4.向表中插入数据
     public static void addRowDate(String tableName, String rowKey, String columnFamily, String column, String value) throws IOException {
         //创建HTable对象
-        HTable hTable = new HTable(conf, tableName);
-        // Connection connection = ConnectionFactory.createConnection(conf);
-        // HTable table = (HTable) connection.getTable(TableName.valueOf(tableName));
+        // HTable hTable = new HTable(conf, tableName);
+        Connection connection = ConnectionFactory.createConnection(conf);
+        HTable hTable = (HTable) connection.getTable(TableName.valueOf(tableName));
         //创建put对象
         Put put = new Put(Bytes.toBytes(rowKey));
         //向put对象中组装数据
@@ -96,6 +96,8 @@ public class HbaseApi {
     //5.删除多行数据
     public static void deleteRowDate(String tableName, String... rowKeys) throws IOException {
         HTable hTable = new HTable(conf, tableName);
+        // Connection connection = ConnectionFactory.createConnection(conf);
+        // HTable table = (HTable)connection.getTable(TableName.valueOf(tableName));
         List<Delete> list = new ArrayList<Delete>();
         for (String rowKey : rowKeys) {
             Delete delete = new Delete(Bytes.toBytes(rowKey));

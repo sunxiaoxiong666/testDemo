@@ -10,38 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a4fb492-fecf-487c-adcf-86657a205dbb" name="Default Changelist" comment="测试版本回退">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/ArrayTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/FangFa.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/HelloWorld.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/ListTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/MapList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/MatchTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/PrivateTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/SetTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/StringTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/TraitTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/classTest/Marker.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/classTest/Point.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo1/classTest/SingleTon.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/ArrayTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/CaseTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/ClassTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/ExtendsTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/ForTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/IfTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/IteratorTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/ListTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/MapTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/MethodTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/ObjectTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/OptionTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/SetTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/TraitTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo2/YuanZuTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shuJuJieGou/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/suanfa/MaoPaoSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hbase/weibo_project/WeiBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hbase/weibo_project/WeiBo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kafka/stream/LogProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kafka/stream/LogProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapReduce/reduceJoin/TableMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapReduce/reduceJoin/TableMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suanfa/ZhiJieChaRuPaiXu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/suanfa/ZhiJieChaRuPaiXu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -231,8 +208,10 @@
     <session id="-367723247">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.103" value="1" />
           <entry key="project.open.time.113" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="2" />
@@ -240,50 +219,61 @@
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="2" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.open.time.92" value="3" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="2" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="89" />
-          <entry key="scala" value="23" />
+          <entry key="java" value="187" />
+          <entry key="scala" value="26" />
           <entry key="sql" value="1" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="2" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="89" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="187" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Scala" value="23" />
+          <entry key="Scala" value="26" />
           <entry key="Scratch" value="1" />
-          <entry key="XML" value="2" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="6" />
-          <entry key="java" value="8360" />
+          <entry key="java" value="9275" />
           <entry key="txt" value="9" />
           <entry key="xml" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8360" />
+          <entry key="JAVA" value="9275" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="VTL" value="6" />
           <entry key="XML" value="28" />
@@ -335,53 +325,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ObjectTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/shuJuJieGou/ArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/Test01.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ListTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/MethodTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/SetTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/CaseTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ArrayTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ForTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ExtendsTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/TraitTest.scala">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-442">
+              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/ZhiJieChaRuPaiXu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/MaoPaoSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="657">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -398,8 +383,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>英文名</find>
-      <find>source_flag</find>
       <find>property4</find>
       <find>property2</find>
       <find>country</find>
@@ -428,6 +411,8 @@
       <find>hubble</find>
       <find>junit</find>
       <find>toString</find>
+      <find>FileinputFormat</find>
+      <find>128</find>
     </findStrings>
     <replaceStrings>
       <replace>public</replace>
@@ -452,13 +437,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/mapReduce/friendShare/TwoFriendShareReducer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mapReduce/compress/TestCompress.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordCountDriver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mapReduce/kvText/KvtextMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mapReduce/kvText/KvtextReducer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mapReduce/kvText/KvtextDriver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineReducer.java" />
         <option value="$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineDriver.java" />
         <option value="$PROJECT_DIR$/src/test/java/EntCashflowHeadInfoJy.java" />
@@ -470,7 +448,6 @@
         <option value="$PROJECT_DIR$/src/test/java/EntNonFinanceIncomesInfoJy.java" />
         <option value="$PROJECT_DIR$/src/test/java/EntFinanceIncomesInfoJy.java" />
         <option value="$PROJECT_DIR$/src/test/java/Loo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/kafka/NewProducer.java" />
         <option value="$PROJECT_DIR$/src/main/java/collections/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/qingxi/DictionaryQuery.java" />
@@ -479,7 +456,6 @@
         <option value="$PROJECT_DIR$/src/test/java/EntNonFinanceBalancesheetInfoJy.java" />
         <option value="$PROJECT_DIR$/src/main/java/qingxi/Utils.java" />
         <option value="$PROJECT_DIR$/src/main/java/kafka/CustomerPartitioner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java" />
         <option value="$PROJECT_DIR$/src/main/java/kafka/CounterInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/java/kafka/CallBackProducer.java" />
         <option value="$PROJECT_DIR$/src/main/java/kafka/stream/Application.java" />
@@ -496,13 +472,22 @@
         <option value="$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test2/ReadFromHdfsMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test2/ReadFromHdfsReducer.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test2/ReadFromHdfsDriver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java" />
         <option value="$PROJECT_DIR$/src/main/scala/HelloScala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/kafka/stream/LogProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/hbase/weibo_project/WeiBo.java" />
         <option value="$PROJECT_DIR$/src/main/scala/demo1/ArrayTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo2/TraitTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/hbase/HbaseApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/weather/WeatherPartitioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/weather/WeatherGroupingComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/webLog/WeblogMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/reduceJoin/TableMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/shuJuJieGou/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/suanfa/MaoPaoSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/suanfa/ZhiJieChaRuPaiXu.java" />
       </list>
     </option>
   </component>
@@ -571,6 +556,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -602,15 +590,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="commandLine" type="462c0819:PsiDirectoryNode" />
+              <item name="suanfa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -618,7 +616,7 @@
     <property name="SearchEverywhereHistoryKey" value="toString&#9;PSI&#9;JAVA://mapReduce.flow.FlowBean#toString" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588840151833" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592462426326" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -660,13 +658,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NewProducer">
-    <configuration name="HbaseApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hbase.HbaseApi" />
-      <module name="testDemo" />
+  <component name="RunManager" selected="Application.ZhiJieChaRuPaiXu">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shuJuJieGou.ArrayTest" />
+      <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hbase.*" />
+          <option name="PATTERN" value="shuJuJieGou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -674,19 +672,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloScala" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="HelloScala" />
-      <module name="testDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kafka.NewProducer" />
+    <configuration name="MaoPaoSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="suanfa.MaoPaoSort" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kafka.*" />
+          <option name="PATTERN" value="suanfa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -720,6 +711,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sheJiMoShi.guanChaZheMoShi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhiJieChaRuPaiXu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="suanfa.ZhiJieChaRuPaiXu" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="suanfa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -794,18 +798,18 @@
       <item itemvalue="Application.Test2" />
       <item itemvalue="Tomcat Server.tomcat" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ArrayTest" />
       <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.HbaseApi" />
-      <item itemvalue="Application.HelloScala" />
-      <item itemvalue="Application.NewProducer" />
+      <item itemvalue="Application.MaoPaoSort" />
+      <item itemvalue="Application.ZhiJieChaRuPaiXu" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NewProducer" />
-        <item itemvalue="Application.HelloScala" />
-        <item itemvalue="Application.HbaseApi" />
+        <item itemvalue="Application.ZhiJieChaRuPaiXu" />
+        <item itemvalue="Application.MaoPaoSort" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1026,7 +1030,24 @@
       <workItem from="1588728840676" duration="592000" />
       <workItem from="1588814014940" duration="599000" />
       <workItem from="1588834894511" duration="45000" />
-      <workItem from="1588839564825" duration="524000" />
+      <workItem from="1588839564825" duration="2078000" />
+      <workItem from="1588917571402" duration="1193000" />
+      <workItem from="1589160541392" duration="850000" />
+      <workItem from="1589173685667" duration="1313000" />
+      <workItem from="1589333160584" duration="1813000" />
+      <workItem from="1589528712354" duration="2185000" />
+      <workItem from="1589765159853" duration="13226000" />
+      <workItem from="1590023683092" duration="23571000" />
+      <workItem from="1590370091960" duration="1888000" />
+      <workItem from="1590628657407" duration="596000" />
+      <workItem from="1590974289077" duration="596000" />
+      <workItem from="1591060311407" duration="591000" />
+      <workItem from="1591146659771" duration="1255000" />
+      <workItem from="1591232724617" duration="4134000" />
+      <workItem from="1591319868309" duration="3016000" />
+      <workItem from="1591592598967" duration="5608000" />
+      <workItem from="1592184281434" duration="11938000" />
+      <workItem from="1593308789082" duration="1559000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1555490400563</created>
@@ -1078,7 +1099,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="863103000" />
+    <option name="totallyTimeSpent" value="939989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1091,9 +1112,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49926794" visible="true" weight="0.2521322" />
-      <window_info id="Structure" order="1" sideWeight="0.50073206" side_tool="true" weight="0.21268657" />
+      <window_info active="true" content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49776286" visible="true" weight="0.3054371" />
+      <window_info id="Structure" order="1" sideWeight="0.50223714" side_tool="true" weight="0.27238807" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1101,8 +1123,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.110738255" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.26510066" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.16331096" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26398212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.25838926" />
@@ -1230,52 +1252,150 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordcountCombiner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/weather/WeatherPartitioner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="416">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordCountMapper.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/io/WritableComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1662">
+          <caret line="41" column="72" lean-forward="true" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/weather/WeatherSortComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/weather/WeatherGroupingComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="68" lean-forward="true" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/order/OederSortGroupingComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/order/OrderDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/weather/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/webLog/WeblogDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/io/NullWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/Partitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/lib/HashPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1664" column="21" selection-start-line="1664" selection-start-column="21" selection-end-line="1664" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/MapTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="653" column="37" lean-forward="true" selection-start-line="653" selection-start-column="37" selection-end-line="653" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/webLog/WeblogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/weather/WeatherReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/lib/reduce/WrappedReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="104" column="24" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/task/TaskInputOutputContextImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapreduce/RecordWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/outputFormat/FilterMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/WordCountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1553">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordCountReducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/outputFormat/FilterDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/WriteFruitReduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/outputFormat/FilterRecordWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1288,216 +1408,200 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/outputFormat/FilterOutPutFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="234">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/FruitDriver.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/fs/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="793" lean-forward="true" selection-start-line="793" selection-end-line="793" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/hadoop/io/nativeio/NativeIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="563" column="40" selection-start-line="563" selection-start-column="40" selection-end-line="563" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/core-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/outputFormat/FilterDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/outputFormat/FilterRecordWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="17" column="74" lean-forward="true" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/reduceJoin/TableDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/reduceJoin/TableBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/wordCount/WordCountDriver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/reduceJoin/TableMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="442">
+          <caret line="22" column="112" selection-start-line="22" selection-start-column="112" selection-end-line="22" selection-end-column="112" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/kvText/KvtextMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapReduce/reduceJoin/TableReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12298">
+          <caret line="541" column="13" selection-start-line="541" selection-start-column="13" selection-end-line="541" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8502">
+          <caret line="358" column="4" selection-start-line="358" selection-start-column="4" selection-end-line="358" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/NewProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CallBackProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/TimeInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/hbase_mapreduce/test1/ReadFruitMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerPartitioner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state relative-caret-position="208">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/weibo_project/Message.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3-sources.jar!/org/apache/commons/beanutils/BeanUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="2886">
+          <caret line="131" column="23" selection-start-line="131" selection-start-column="23" selection-end-line="131" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Get.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdfs/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1378">
-          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+        <state relative-caret-position="312">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Table.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/ArrayTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6812">
-          <caret line="296" column="7" selection-start-line="296" selection-start-column="7" selection-end-line="296" selection-end-column="7" />
+        <state relative-caret-position="-26">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/filter/SubstringComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hbase/weibo_project/WeiBo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11804">
-          <caret line="465" selection-start-line="465" selection-end-line="465" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/stream/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CallBackProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CounterInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CustomerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/HelloScala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/MapList.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Item.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/filter/CompareFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/ListTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        <state relative-caret-position="156">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/filter/RowFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Put.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4082">
-          <caret line="201" column="13" selection-start-line="201" selection-start-column="13" selection-end-line="201" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.1/hbase-client-1.3.1-sources.jar!/org/apache/hadoop/hbase/client/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1586">
-          <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.1/hbase-common-1.3.1-sources.jar!/org/apache/hadoop/hbase/NamespaceDescriptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commandLine/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/OuJiLiDe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Logger2.scala">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/shuJuJieGou/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/PrivateTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/classTest/Marker.scala">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/MaoPaoSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/classTest/SingleTon.scala">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/ZhiJieChaRuPaiXu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/FangFa.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/TraitTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/SetTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/classTest/Point.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/MatchTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/MapList.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo1/ArrayTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ObjectTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/Test01.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ListTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/MethodTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/SetTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/CaseTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ArrayTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ForTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/ExtendsTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo2/TraitTest.scala">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
