@@ -40,5 +40,13 @@ public class Test {
         System.out.println("y=" + y + ",z=" + z);
         y = y ^ z;
         System.out.println("y=" + y + ",z=" + z);
+
+
+        // differentDays
+        String time1 = "2020-03-03 05:57:13";
+        String time2 = "2020-06-03 05:57:12";
+        Integer days = Utils.differentDays(time2, "yyyy-MM-dd HH:mm:ss", time1, "yyyy-MM-dd HH:mm:ss");
+        System.out.println(days);
+
     }
 }

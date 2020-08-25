@@ -10,7 +10,7 @@ package demo2
 
 object MethodTest {
   //定义个方法，参数必须是函数，函数的参数是两个Int类型，返回值类型也是Int类型
-  def m1(f: (Int, Int) => Int): Int = {
+  def m1(f: (Int, Int) => Int)={
     f(2, 6)
   }
 
