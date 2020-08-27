@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a4fb492-fecf-487c-adcf-86657a205dbb" name="Default Changelist" comment="测试版本回退">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NIO/CreateDirectoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/demo2/MethodTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/demo2/MethodTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -230,20 +230,19 @@
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.9" value="2" />
           <entry key="project.open.time.92" value="3" />
           <entry key="project.open.time.98" value="1" />
           <entry key="project.open.time.99" value="1" />
-          <entry key="project.opened" value="47" />
+          <entry key="project.opened" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="205" />
+          <entry key="java" value="199" />
           <entry key="scala" value="28" />
           <entry key="sql" value="1" />
           <entry key="txt" value="1" />
@@ -253,7 +252,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="205" />
+          <entry key="JAVA" value="199" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Scala" value="28" />
           <entry key="Scratch" value="1" />
@@ -263,7 +262,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="6" />
-          <entry key="java" value="9543" />
+          <entry key="java" value="9379" />
           <entry key="scala" value="1" />
           <entry key="txt" value="9" />
           <entry key="xml" value="28" />
@@ -271,7 +270,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9543" />
+          <entry key="JAVA" value="9379" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="Scala" value="1" />
           <entry key="VTL" value="6" />
@@ -323,11 +322,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IO/File/FileTest1.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="312">
+              <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -335,47 +334,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="553">
+              <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="102" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NIO/CreateDirectoryTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/qingxi/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+            <state relative-caret-position="215">
+              <caret line="1481" column="26" selection-start-line="1481" selection-start-column="26" selection-end-line="1481" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/ZhiJieChaRuPaiXu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2860">
+              <caret line="127" column="11" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="11" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#5837#5838#0" expanded="true" />
+                <element signature="e#5894#5895#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IO/BufferStream.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka/CallBackProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IO/FileCopy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1274">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NIO/BufferTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="1274">
+              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -430,6 +430,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>runState</find>
       <find>ReentrantLock</find>
       <find>execute</find>
       <find>socketWrite0</find>
@@ -459,7 +460,6 @@
       <find>Utils</find>
       <find>日期</find>
       <find>hh</find>
-      <find>createDirectory</find>
     </findStrings>
     <replaceStrings>
       <replace>public</replace>
@@ -484,6 +484,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/mapReduce/NLineInputFormat/NLineDriver.java" />
         <option value="$PROJECT_DIR$/src/test/java/EntCashflowHeadInfoJy.java" />
         <option value="$PROJECT_DIR$/src/test/java/EntFinanceCashflowInfoJy.java" />
         <option value="$PROJECT_DIR$/src/test/java/EntNonFinanceCashflowInfoJy.java" />
@@ -534,7 +535,6 @@
         <option value="$PROJECT_DIR$/src/main/java/suanfa/ZhiJieChaRuPaiXu.java" />
         <option value="$PROJECT_DIR$/src/main/scala/demo2/MethodTest.scala" />
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/NIO/CreateDirectoryTest.java" />
       </list>
     </option>
   </component>
@@ -603,7 +603,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -628,31 +627,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-              <item name="File" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="NIO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -688,6 +662,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -696,7 +671,7 @@
     <property name="SearchEverywhereHistoryKey" value="toString&#9;PSI&#9;JAVA://mapReduce.flow.FlowBean#toString" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598505186410" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597991934297" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1134,7 +1109,6 @@
       <workItem from="1594776361661" duration="5777000" />
       <workItem from="1595313931680" duration="40000" />
       <workItem from="1597989842742" duration="1529000" />
-      <workItem from="1598495463225" duration="3981000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1555490400563</created>
@@ -1186,7 +1160,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="962004000" />
+    <option name="totallyTimeSpent" value="958023000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1201,7 +1175,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49776286" visible="true" weight="0.1652452" />
+      <window_info active="true" content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49776286" visible="true" weight="0.16364606" />
       <window_info id="Structure" order="1" sideWeight="0.50223714" side_tool="true" weight="0.27238807" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1210,8 +1184,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.10514542" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37136465" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.18456376" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26398212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.25838926" />
@@ -1340,6 +1314,41 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/io/NullWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/Partitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/lib/HashPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1664" column="21" selection-start-line="1664" selection-start-column="21" selection-end-line="1664" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3-sources.jar!/org/apache/hadoop/mapred/MapTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="657">
@@ -1590,20 +1599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/qingxi/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37466">
-          <caret line="1481" column="26" selection-start-line="1481" selection-start-column="26" selection-end-line="1481" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/suanfa/ZhiJieChaRuPaiXu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -1657,48 +1652,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/BufferStream.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/qingxi/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/FileCopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1274">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NIO/BufferTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/File/FileTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="215">
+          <caret line="1481" column="26" selection-start-line="1481" selection-start-column="26" selection-end-line="1481" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="553">
+          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="102" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NIO/CreateDirectoryTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
         </state>
       </provider>
     </entry>
