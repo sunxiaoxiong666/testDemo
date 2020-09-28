@@ -54,7 +54,7 @@ public class WeiBo {
             admin = (HBaseAdmin) connection.getAdmin();
             //命名空间类似于关系型数据库中的schema，可以想象成文件夹
             NamespaceDescriptor weibo = NamespaceDescriptor.create("ns_weibo")
-                    .addConfiguration("creatoor", "xiong")
+                    .addConfiguration("creator", "xiong")
                     .addConfiguration("create_time", System.currentTimeMillis() + "")
                     .build();
             admin.createNamespace(weibo);

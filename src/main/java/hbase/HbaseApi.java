@@ -71,6 +71,7 @@ public class HbaseApi {
         HBaseAdmin admin = (HBaseAdmin) connection.getAdmin();
         //判断表是否存在
         if (admin.tableExists(tableName)) {
+            //此处要先调用这个方法，否则不能删除表
             admin.disableTable(tableName);
             admin.deleteTable(tableName);
         } else {
@@ -81,7 +82,7 @@ public class HbaseApi {
     //4.向表中插入数据
     public static void addRowDate(String tableName, String rowKey, String columnFamily, String column, String value) throws IOException {
         //创建HTable对象
-        // HTable hTable = new HTable(conf, tableName);
+        // HTable hTable = new HTable(conf, tableName);//此方法过时
         Connection connection = ConnectionFactory.createConnection(conf);
         HTable hTable = (HTable) connection.getTable(TableName.valueOf(tableName));
         //创建put对象
