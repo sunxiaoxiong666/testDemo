@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a4fb492-fecf-487c-adcf-86657a205dbb" name="Default Changelist" comment="测试版本回退">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -264,7 +263,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="6" />
-          <entry key="java" value="10420" />
+          <entry key="java" value="10430" />
           <entry key="scala" value="1" />
           <entry key="txt" value="9" />
           <entry key="xml" value="28" />
@@ -272,7 +271,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10420" />
+          <entry key="JAVA" value="10430" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="Scala" value="1" />
           <entry key="VTL" value="6" />
@@ -327,8 +326,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="157" column="1" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
+            <state relative-caret-position="683">
+              <caret line="158" column="9" selection-start-line="158" selection-start-column="9" selection-end-line="158" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -1073,7 +1072,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="986034000" />
+    <option name="totallyTimeSpent" value="986040000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1560,8 +1559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="157" column="1" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
+        <state relative-caret-position="683">
+          <caret line="158" column="9" selection-start-line="158" selection-start-column="9" selection-end-line="158" selection-end-column="9" />
         </state>
       </provider>
     </entry>
