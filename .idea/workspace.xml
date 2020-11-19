@@ -9,7 +9,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a4fb492-fecf-487c-adcf-86657a205dbb" name="Default Changelist" comment="测试版本回退" />
+    <list default="true" id="7a4fb492-fecf-487c-adcf-86657a205dbb" name="Default Changelist" comment="测试版本回退">
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -261,7 +263,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="6" />
-          <entry key="java" value="10433" />
+          <entry key="java" value="10440" />
           <entry key="scala" value="1" />
           <entry key="txt" value="9" />
           <entry key="xml" value="28" />
@@ -269,7 +271,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10433" />
+          <entry key="JAVA" value="10440" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="Scala" value="1" />
           <entry key="VTL" value="6" />
@@ -324,8 +326,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+            <state relative-caret-position="501">
+              <caret line="156" column="5" lean-forward="true" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -1069,7 +1071,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="987003000" />
+    <option name="totallyTimeSpent" value="987281000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1084,7 +1086,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49776286" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" x="754" y="80" width="410" height="890" id="Project" order="0" sideWeight="0.49776286" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" sideWeight="0.50223714" side_tool="true" weight="0.27238807" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1250,9 +1252,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1559,8 +1558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+        <state relative-caret-position="501">
+          <caret line="156" column="5" lean-forward="true" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1589,9 +1588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
