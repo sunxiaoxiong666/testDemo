@@ -89,6 +89,7 @@ public class Test {
         }
 
         forTest();
+
     }
 
     public static void forTest() {
